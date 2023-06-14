@@ -16,3 +16,10 @@ node <fileName.js>
 Output:
 XXXXXXXXXXXXXXXXXXXXX
 ```
+
+- Big-O notations
+
+```
+O(1) - Constant time
+O(n) - Linear time
+```
