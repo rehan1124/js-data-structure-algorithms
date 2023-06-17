@@ -22,4 +22,14 @@ XXXXXXXXXXXXXXXXXXXXX
 ```
 O(1) - Constant time
 O(n) - Linear time
+O(n^2) - Quadratic
+```
+
+- Rules to calculate Big-O
+
+```
+1) Worst case scenario
+2) Remove constants
+3) Different terms for multiple inputs/parameters
+4) Drop non-dominants
 ```
