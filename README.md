@@ -23,6 +23,7 @@ XXXXXXXXXXXXXXXXXXXXX
 O(1) - Constant time
 O(n) - Linear time
 O(n^2) - Quadratic
+O(n!) - Adding a loop for every element
 ```
 
 - Rules to calculate Big-O
@@ -32,4 +33,19 @@ O(n^2) - Quadratic
 2) Remove constants
 3) Different terms for multiple inputs/parameters
 4) Drop non-dominants
+```
+
+- 3 pillars of coding
+
+```
+1) Readability
+2) Speed a.k.a Time complexity (Operations, Comparisons, Looping, Outside function calls)
+3) Memory a.k.a Space complexity (Variables, Data structures, Function call, Allocations)
+```
+
+- Heap and Stack
+
+```
+Heap - Assigned variables are kept
+Stack - Function calls are stored
 ```
