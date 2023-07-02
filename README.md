@@ -49,3 +49,12 @@ O(n!) - Adding a loop for every element
 Heap - Assigned variables are kept
 Stack - Function calls are stored
 ```
+
+- Arrays
+
+```
+Lookup = O(1)
+Add/push/pop = O(1)
+Insert = O(n)
+Delete = O(n)
+```
