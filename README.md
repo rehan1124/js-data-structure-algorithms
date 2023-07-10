@@ -58,3 +58,16 @@ Add/push/pop = O(1)
 Insert = O(n)
 Delete = O(n)
 ```
+
+- Primitive (Defined by programming language) and Reference (Created by programmer) datatypes
+
+```
+Primitive:
+Number, Strings, Boolean, Undefined, Null
+```
+
+```
+Reference:
+Objects {}
+Arrays []
+```
