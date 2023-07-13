@@ -93,7 +93,8 @@ Arrays []
 ---
 
 - Arrays implementation output
-  Filename: array-implementation.js
+
+> Filename: array-implementation.js
 
 ```
 arr1:  MyArray { length: 0, data: {} }
